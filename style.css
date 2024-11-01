@@ -1,0 +1,61 @@
+body{
+    background: #0D0714;
+}
+
+.container{
+    width: 432px;
+    margin: auto;
+    align-items: center;
+    margin-top: 50px;
+}
+
+
+.input__text{
+    background: #0D0714;
+    color: #777777; 
+    padding: 8px 100px;
+    border-radius: 10px;
+    border: #3E1671 solid;
+}
+
+.btn__text{
+    background: #9E78CF;
+    border-radius: 10px;
+    padding: 8px 11px;
+    color: #fff;
+
+}
+
+.task__card{
+    display: flex;
+}
+
+.task__title{
+    color: #ffff;
+}
+
+.task__list{
+    color: #ffff;
+
+}
+
+.done__title{
+    color: #ffff;
+
+}
+
+.done__list{
+    color: #78CFB0;
+    text-decoration: line-through;
+
+}
+
+.task__controller{
+  display: flex;
+  gap: 4px;
+}
+
+.btn__todo{
+    background: #15101C;
+    border: #15101C solid;
+}
